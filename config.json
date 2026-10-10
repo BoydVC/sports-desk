@@ -1,0 +1,110 @@
+{
+ "port": 4244,
+ "timezone": "America/New_York",
+ "refreshSeconds": 900,
+ "ttl": {
+  "schedule": 900,
+  "standings": 1800,
+  "team": 3600,
+  "news": 1800,
+  "history": 86400
+ },
+ "teams": [
+  {
+   "key": "ravens",
+   "name": "Ravens",
+   "full": "Baltimore Ravens",
+   "sport": "football",
+   "league": "nfl",
+   "teamId": "bal",
+   "abbr": "BAL",
+   "colors": [
+    "#241773",
+    "#9E7C0C"
+   ],
+   "leagueLabel": "NFL",
+   "standingsUrl": "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3",
+   "group": "AFC North",
+   "newsUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team=bal&limit=30",
+   "keywords": [
+    "Ravens",
+    "Baltimore",
+    "Lamar"
+   ]
+  },
+  {
+   "key": "chelsea",
+   "name": "Chelsea",
+   "full": "Chelsea FC",
+   "sport": "soccer",
+   "league": "eng.1",
+   "teamId": "363",
+   "abbr": "CHE",
+   "colors": [
+    "#034694",
+    "#DBA111"
+   ],
+   "leagueLabel": "Premier League",
+   "standingsUrl": "https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
+   "newsUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/news?team=363&limit=30",
+   "keywords": [
+    "Chelsea",
+    "Blues",
+    "Stamford"
+   ]
+  },
+  {
+   "key": "orioles",
+   "name": "Orioles",
+   "full": "Baltimore Orioles",
+   "sport": "baseball",
+   "league": "mlb",
+   "teamId": "bal",
+   "abbr": "BAL",
+   "colors": [
+    "#DF4601",
+    "#000000"
+   ],
+   "leagueLabel": "MLB",
+   "standingsUrl": "https://site.api.espn.com/apis/v2/sports/baseball/mlb/standings?level=3",
+   "group": "American League East",
+   "newsUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/news?team=bal&limit=30",
+   "keywords": [
+    "Orioles",
+    "O's",
+    "Baltimore",
+    "Camden"
+   ],
+   "rss": {
+    "url": "https://www.mlb.com/orioles/feeds/news/rss.xml",
+    "label": "MLB.com Orioles news RSS"
+   }
+  },
+  {
+   "key": "terps",
+   "name": "Terps",
+   "full": "Maryland Terrapins men's basketball",
+   "sport": "basketball",
+   "league": "mens-college-basketball",
+   "teamId": "120",
+   "abbr": "MD",
+   "colors": [
+    "#E21833",
+    "#FFD200"
+   ],
+   "leagueLabel": "Big Ten \u00b7 Men's Basketball",
+   "newsUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?team=120&limit=40",
+   "keywords": [
+    "Maryland",
+    "Terps",
+    "Terrapins"
+   ],
+   "upcomingSeason": 2027,
+   "lastSeason": 2026,
+   "rss": {
+    "url": "https://umterps.com/rss?path=mbball",
+    "label": "umterps.com (official Maryland Athletics) men's basketball RSS"
+   }
+  }
+ ]
+}

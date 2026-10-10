@@ -1,0 +1,3963 @@
+{
+ "generatedAt": "2026-10-10T15:31:51Z",
+ "generatedAtEt": "Sat Oct 10, 2026 \u00b7 11:31 AM ET",
+ "teams": [
+  {
+   "key": "ravens",
+   "name": "Ravens",
+   "full": "Baltimore Ravens",
+   "abbr": "BAL",
+   "colors": [
+    "#241773",
+    "#9E7C0C"
+   ],
+   "sport": "football",
+   "league": "nfl",
+   "leagueLabel": "NFL",
+   "record": "3-1",
+   "recordLabel": "2026 regular season",
+   "splits": {
+    "Home": "1-1",
+    "Road": "2-0"
+   },
+   "standing": "T-1st in AFC North (CLE ahead on ESPN's tiebreak order)",
+   "espnStanding": "1st in AFC North",
+   "last": [
+    {
+     "id": "401872973",
+     "date": "2026-10-04T17:00Z",
+     "timeValid": true,
+     "et": "Sun Oct 4 \u00b7 1:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Tennessee Titans",
+     "oppShort": "Titans",
+     "oppAbbr": "TEN",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "24",
+     "oppScore": "18",
+     "result": "W",
+     "tv": [
+      "CBS"
+     ],
+     "venue": "M&T Bank Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 4",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872973/titans-ravens",
+     "oppLogoLocal": "/img/c9b602786b21daec.img"
+    },
+    {
+     "id": "401872960",
+     "date": "2026-09-27T20:25Z",
+     "timeValid": true,
+     "et": "Sun Sep 27 \u00b7 4:25 PM ET",
+     "home": false,
+     "neutral": true,
+     "opp": "Dallas Cowboys",
+     "oppShort": "Cowboys",
+     "oppAbbr": "DAL",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "34",
+     "oppScore": "31",
+     "result": "W",
+     "tv": [
+      "CBS"
+     ],
+     "venue": "Maracan\u00e3 Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 3",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
+     "oppLogoLocal": "/img/ffe751fe788b7f80.img"
+    },
+    {
+     "id": "401872938",
+     "date": "2026-09-20T17:00Z",
+     "timeValid": true,
+     "et": "Sun Sep 20 \u00b7 1:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "New Orleans Saints",
+     "oppShort": "Saints",
+     "oppAbbr": "NO",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "17",
+     "oppScore": "24",
+     "result": "L",
+     "tv": [
+      "CBS"
+     ],
+     "venue": "M&T Bank Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 2",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872938/saints-ravens",
+     "oppLogoLocal": "/img/2fa4c6365676b0b2.img"
+    },
+    {
+     "id": "401872659",
+     "date": "2026-09-13T17:00Z",
+     "timeValid": true,
+     "et": "Sun Sep 13 \u00b7 1:00 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Indianapolis Colts",
+     "oppShort": "Colts",
+     "oppAbbr": "IND",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "41",
+     "oppScore": "23",
+     "result": "W",
+     "tv": [
+      "CBS"
+     ],
+     "venue": "Lucas Oil Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 1",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872659/ravens-colts",
+     "oppLogoLocal": "/img/2a2b9d722a02b544.img"
+    }
+   ],
+   "next": [
+    {
+     "id": "401872993",
+     "date": "2026-10-12T00:20Z",
+     "timeValid": true,
+     "et": "Sun Oct 11 \u00b7 8:20 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Atlanta Falcons",
+     "oppShort": "Falcons",
+     "oppAbbr": "ATL",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&h=80&w=80",
+     "state": "pre",
+     "status": "10/11 - 8:20 PM EDT",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "NBC"
+     ],
+     "venue": "Mercedes-Benz Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 5",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons",
+     "oppLogoLocal": "/img/9e0d64e9a296f625.img"
+    },
+    {
+     "id": "401872997",
+     "date": "2026-10-18T17:00Z",
+     "timeValid": true,
+     "et": "Sun Oct 18 \u00b7 1:00 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Cleveland Browns",
+     "oppShort": "Browns",
+     "oppAbbr": "CLE",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&h=80&w=80",
+     "state": "pre",
+     "status": "10/18 - 1:00 PM EDT",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "Fox"
+     ],
+     "venue": "Huntington Bank Field",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 6",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872997/ravens-browns",
+     "oppLogoLocal": "/img/018b52670ef5576b.img"
+    },
+    {
+     "id": "401873012",
+     "date": "2026-10-25T17:00Z",
+     "timeValid": true,
+     "et": "Sun Oct 25 \u00b7 1:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Cincinnati Bengals",
+     "oppShort": "Bengals",
+     "oppAbbr": "CIN",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&h=80&w=80",
+     "state": "pre",
+     "status": "10/25 - 1:00 PM EDT",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "CBS"
+     ],
+     "venue": "M&T Bank Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 7",
+     "link": "https://www.espn.com/nfl/game/_/gameId/401873012/bengals-ravens",
+     "oppLogoLocal": "/img/358f7de8b1fb75d2.img"
+    }
+   ],
+   "spark": {
+    "label": "2026 \u00b7 games over .500 after each game",
+    "kind": "over500",
+    "points": [
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2026-09-13",
+      "opp": "IND",
+      "s": "41-23"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2026-09-20",
+      "opp": "NO",
+      "s": "17-24"
+     },
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2026-09-27",
+      "opp": "DAL",
+      "s": "34-31"
+     },
+     {
+      "v": 2,
+      "r": "W",
+      "d": "2026-10-04",
+      "opp": "TEN",
+      "s": "24-18"
+     }
+    ],
+    "w": 3,
+    "l": 1,
+    "t": 0
+   },
+   "table": {
+    "title": "AFC North",
+    "cols": [
+     "W-L",
+     "PCT",
+     "DIV",
+     "PF",
+     "PA",
+     "DIFF",
+     "STRK"
+    ],
+    "rows": [
+     {
+      "abbr": "CLE",
+      "team": "Browns",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&h=80&w=80",
+      "w": "3",
+      "l": "1",
+      "t": "0",
+      "pct": ".750",
+      "rec": "3-1",
+      "div": "1-0",
+      "pf": "81",
+      "pa": "95",
+      "diff": "-14",
+      "strk": "W3",
+      "seed": "4",
+      "me": false,
+      "logoLocal": "/img/018b52670ef5576b.img"
+     },
+     {
+      "abbr": "BAL",
+      "team": "Ravens",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80",
+      "w": "3",
+      "l": "1",
+      "t": "0",
+      "pct": ".750",
+      "rec": "3-1",
+      "div": "0-0",
+      "pf": "116",
+      "pa": "96",
+      "diff": "+20",
+      "strk": "W2",
+      "seed": "5",
+      "me": true,
+      "logoLocal": "/img/daa5d4ee7c9be3b3.img"
+     },
+     {
+      "abbr": "PIT",
+      "team": "Steelers",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&h=80&w=80",
+      "w": "2",
+      "l": "2",
+      "t": "0",
+      "pct": ".500",
+      "rec": "2-2",
+      "div": "1-1",
+      "pf": "77",
+      "pa": "87",
+      "diff": "-10",
+      "strk": "L1",
+      "seed": "9",
+      "me": false,
+      "logoLocal": "/img/d69e348c4d6168c0.img"
+     },
+     {
+      "abbr": "CIN",
+      "team": "Bengals",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&h=80&w=80",
+      "w": "2",
+      "l": "2",
+      "t": "0",
+      "pct": ".500",
+      "rec": "2-2",
+      "div": "0-1",
+      "pf": "97",
+      "pa": "85",
+      "diff": "+12",
+      "strk": "L2",
+      "seed": "11",
+      "me": false,
+      "logoLocal": "/img/358f7de8b1fb75d2.img"
+     }
+    ],
+    "note": "Order as ESPN's standings feed lists it (playoff seed)."
+   },
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80",
+   "facts": [
+    [
+     "Points for",
+     "116"
+    ],
+    [
+     "Points against",
+     "96"
+    ],
+    [
+     "Streak",
+     "W2"
+    ],
+    [
+     "AFC seed (ESPN)",
+     "5"
+    ]
+   ],
+   "headline": {
+    "title": "Sources: Ravens held Cam Jurgens physical before trade with Eagles",
+    "desc": "As the Ravens and Eagles were preparing to agree to a trade that would send Cam Jurgens to Baltimore, the two sides made immediate plans for the center to undergo a physical in Philadelphia before any deal was finalized, league sources told ESPN.",
+    "url": "https://www.espn.com/nfl/story/_/id/50147669/sources-ravens-held-cam-jurgens-physical-trade-eagles",
+    "published": "2026-10-10T15:03:34Z",
+    "publishedEt": "Sat Oct 10 \u00b7 11:03 AM ET",
+    "byline": "Adam Schefter",
+    "type": "HeadlineNews",
+    "image": "https://a.espncdn.com/photo/2026/1007/r1727423_1296x729_16-9.jpg",
+    "source": "ESPN news API (team feed)",
+    "imageLocal": "/img/525ac235b13eb826.jpg"
+   },
+   "more": [
+    {
+     "title": "Ravens QB Lamar Jackson out; Huntley to start SNF vs. Falcons",
+     "url": "https://www.espn.com/nfl/story/_/id/50141743/ravens-qb-lamar-jackson-huntley-start-snf-vs-falcons",
+     "publishedEt": "Fri Oct 9 \u00b7 2:46 PM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "With confident Penix at QB, Falcons will look to continue turnaround against Ravens",
+     "url": "http://www.espn.com/nfl/preview?gameId=401872993",
+     "publishedEt": "Fri Oct 9 \u00b7 5:07 PM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "'A loaded question': How do the Ravens plan to stop Bijan Robinson?",
+     "url": "https://www.espn.com/nfl/story/_/id/50118457/how-do-baltimore-ravens-plan-stop-bijan-robinson-week-5",
+     "publishedEt": "Thu Oct 8 \u00b7 9:27 AM ET",
+     "source": "ESPN"
+    }
+   ],
+   "sources": [
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:52Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/bal/schedule",
+     "error": null,
+     "from": null,
+     "name": "Ravens schedule"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T14:49:33Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/bal",
+     "error": null,
+     "from": null,
+     "name": "Ravens team"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:52Z",
+     "url": "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3",
+     "error": null,
+     "from": null,
+     "name": "NFL standings"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:52Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team=bal&limit=30",
+     "error": null,
+     "from": null,
+     "name": "Ravens news"
+    }
+   ],
+   "logoLocal": "/img/daa5d4ee7c9be3b3.img"
+  },
+  {
+   "key": "chelsea",
+   "name": "Chelsea",
+   "full": "Chelsea FC",
+   "abbr": "CHE",
+   "colors": [
+    "#034694",
+    "#DBA111"
+   ],
+   "sport": "soccer",
+   "league": "eng.1",
+   "leagueLabel": "Premier League",
+   "record": "2W 1D 2L",
+   "recordLabel": "Premier League 2026-27",
+   "points": "7",
+   "rank": 10,
+   "standing": "10th in the Premier League \u00b7 7 pts",
+   "espnStanding": "10th in English Premier League",
+   "last": [
+    {
+     "id": "401879275",
+     "date": "2026-09-18T19:00Z",
+     "timeValid": true,
+     "et": "Fri Sep 18 \u00b7 3:00 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Brentford",
+     "oppShort": "Brentford",
+     "oppAbbr": "BRE",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png&h=80&w=80",
+     "state": "post",
+     "status": "FT",
+     "completed": true,
+     "score": "0",
+     "oppScore": "3",
+     "result": "L",
+     "tv": [
+      "USA Net"
+     ],
+     "venue": "Gtech Community Stadium",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford",
+     "oppLogoLocal": "/img/0c9d120f259b7081.img"
+    },
+    {
+     "id": "401879283",
+     "date": "2026-09-12T14:00Z",
+     "timeValid": true,
+     "et": "Sat Sep 12 \u00b7 10:00 AM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Hull City",
+     "oppShort": "Hull",
+     "oppAbbr": "HUL",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/306.png&h=80&w=80",
+     "state": "post",
+     "status": "FT",
+     "completed": true,
+     "score": "2",
+     "oppScore": "2",
+     "result": "D",
+     "tv": [
+      "USA Net",
+      "Universo"
+     ],
+     "venue": "Stamford Bridge",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401879283/hull-city-chelsea",
+     "oppLogoLocal": "/img/b1acd74c2f83bac8.img"
+    },
+    {
+     "id": "401914256",
+     "date": "2026-09-09T19:15Z",
+     "timeValid": true,
+     "et": "Wed Sep 9 \u00b7 3:15 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Leeds United",
+     "oppShort": "Leeds",
+     "oppAbbr": "LEE",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&h=80&w=80",
+     "state": "post",
+     "status": "FT",
+     "completed": true,
+     "score": "6",
+     "oppScore": "3",
+     "result": "W",
+     "tv": [
+      "Paramount+"
+     ],
+     "venue": "Stamford Bridge",
+     "competition": "English Carabao Cup",
+     "seasonType": "Third Round",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401914256/leeds-united-chelsea",
+     "oppLogoLocal": "/img/9236140cbf5616f3.img"
+    },
+    {
+     "id": "401879292",
+     "date": "2026-09-06T15:30Z",
+     "timeValid": true,
+     "et": "Sun Sep 6 \u00b7 11:30 AM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Arsenal",
+     "oppShort": "Arsenal",
+     "oppAbbr": "ARS",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=80&w=80",
+     "state": "post",
+     "status": "FT",
+     "completed": true,
+     "score": "1",
+     "oppScore": "2",
+     "result": "L",
+     "tv": [
+      "USA Net",
+      "Tele"
+     ],
+     "venue": "Emirates Stadium",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal",
+     "oppLogoLocal": "/img/ab350bf72927c6b3.img"
+    },
+    {
+     "id": "401879317",
+     "date": "2026-08-30T13:00Z",
+     "timeValid": true,
+     "et": "Sun Aug 30 \u00b7 9:00 AM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Brighton & Hove Albion",
+     "oppShort": "Brighton",
+     "oppAbbr": "BHA",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/331.png&h=80&w=80",
+     "state": "post",
+     "status": "FT",
+     "completed": true,
+     "score": "4",
+     "oppScore": "3",
+     "result": "W",
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "Stamford Bridge",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401879317/brighton-hove-albion-chelsea",
+     "oppLogoLocal": "/img/5ff522cfb67dd598.img"
+    }
+   ],
+   "next": [
+    {
+     "id": "401878775",
+     "date": "2026-10-10T14:00Z",
+     "timeValid": true,
+     "et": "Sat Oct 10 \u00b7 10:00 AM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "AFC Bournemouth",
+     "oppShort": "Bournemouth",
+     "oppAbbr": "BOU",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&h=80&w=80",
+     "state": "in",
+     "status": "73'",
+     "completed": false,
+     "score": "5",
+     "oppScore": "1",
+     "result": null,
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "Stamford Bridge",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": null,
+     "oppLogoLocal": "/img/18f0ffdb0c8fc2b6.img"
+    },
+    {
+     "id": "401878771",
+     "date": "2026-10-17T11:30Z",
+     "timeValid": true,
+     "et": "Sat Oct 17 \u00b7 7:30 AM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Everton",
+     "oppShort": "Everton",
+     "oppAbbr": "EVE",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&h=80&w=80",
+     "state": "pre",
+     "status": "10/17 - 7:30 AM EDT",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "USA Net",
+      "Universo"
+     ],
+     "venue": "Hill Dickinson Stadium",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401878771/chelsea-everton",
+     "oppLogoLocal": "/img/98087f84a374960a.img"
+    },
+    {
+     "id": "401878767",
+     "date": "2026-10-24T16:30Z",
+     "timeValid": true,
+     "et": "Sat Oct 24 \u00b7 12:30 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Tottenham Hotspur",
+     "oppShort": "Spurs",
+     "oppAbbr": "TOT",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=80&w=80",
+     "state": "pre",
+     "status": "10/24 - 12:30 PM EDT",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [],
+     "venue": "Stamford Bridge",
+     "competition": "English Premier League",
+     "seasonType": "2026-27 English Premier League",
+     "week": null,
+     "link": "https://www.espn.com/soccer/match/_/gameId/401878767/tottenham-hotspur-chelsea",
+     "oppLogoLocal": "/img/71237314630109ba.img"
+    }
+   ],
+   "spark": {
+    "label": "2026-27 \u00b7 Premier League points after each match",
+    "kind": "points",
+    "points": [
+     {
+      "v": 3,
+      "r": "W",
+      "d": "2026-08-24",
+      "opp": "FUL",
+      "s": "3-2"
+     },
+     {
+      "v": 6,
+      "r": "W",
+      "d": "2026-08-30",
+      "opp": "BHA",
+      "s": "4-3"
+     },
+     {
+      "v": 6,
+      "r": "L",
+      "d": "2026-09-06",
+      "opp": "ARS",
+      "s": "1-2"
+     },
+     {
+      "v": 7,
+      "r": "D",
+      "d": "2026-09-12",
+      "opp": "HUL",
+      "s": "2-2"
+     },
+     {
+      "v": 7,
+      "r": "L",
+      "d": "2026-09-18",
+      "opp": "BRE",
+      "s": "0-3"
+     }
+    ]
+   },
+   "table": {
+    "title": "Premier League",
+    "cols": [
+     "P",
+     "W",
+     "D",
+     "L",
+     "GF",
+     "GA",
+     "GD",
+     "PTS"
+    ],
+    "rows": [
+     {
+      "rank": 1,
+      "abbr": "MNC",
+      "team": "Man City",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&h=80&w=80",
+      "p": "5",
+      "w": "5",
+      "d": "0",
+      "l": "0",
+      "gf": "13",
+      "ga": "5",
+      "gd": "+8",
+      "pts": "15",
+      "note": "Champions League",
+      "noteColor": "#81D6AC",
+      "me": false,
+      "logoLocal": "/img/66b5416c9c98c427.img"
+     },
+     {
+      "rank": 2,
+      "abbr": "ARS",
+      "team": "Arsenal",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=80&w=80",
+      "p": "6",
+      "w": "5",
+      "d": "0",
+      "l": "1",
+      "gf": "10",
+      "ga": "5",
+      "gd": "+5",
+      "pts": "15",
+      "note": "Champions League",
+      "noteColor": "#81D6AC",
+      "me": false,
+      "logoLocal": "/img/ab350bf72927c6b3.img"
+     },
+     {
+      "rank": 3,
+      "abbr": "BHA",
+      "team": "Brighton",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/331.png&h=80&w=80",
+      "p": "5",
+      "w": "3",
+      "d": "1",
+      "l": "1",
+      "gf": "16",
+      "ga": "5",
+      "gd": "+11",
+      "pts": "10",
+      "note": "Champions League",
+      "noteColor": "#81D6AC",
+      "me": false,
+      "logoLocal": "/img/5ff522cfb67dd598.img"
+     },
+     {
+      "rank": 4,
+      "abbr": "BRE",
+      "team": "Brentford",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "3",
+      "l": "0",
+      "gf": "10",
+      "ga": "4",
+      "gd": "+6",
+      "pts": "9",
+      "note": "Champions League",
+      "noteColor": "#81D6AC",
+      "me": false,
+      "logoLocal": "/img/0c9d120f259b7081.img"
+     },
+     {
+      "rank": 5,
+      "abbr": "LEE",
+      "team": "Leeds",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&h=80&w=80",
+      "p": "6",
+      "w": "2",
+      "d": "3",
+      "l": "1",
+      "gf": "8",
+      "ga": "5",
+      "gd": "+3",
+      "pts": "9",
+      "note": "Europa League",
+      "noteColor": "##B5E7CE",
+      "me": false,
+      "logoLocal": "/img/9236140cbf5616f3.img"
+     },
+     {
+      "rank": 6,
+      "abbr": "LIV",
+      "team": "Liverpool",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "3",
+      "l": "0",
+      "gf": "7",
+      "ga": "4",
+      "gd": "+3",
+      "pts": "9",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/1e6b6c43cac375b0.img"
+     },
+     {
+      "rank": 7,
+      "abbr": "EVE",
+      "team": "Everton",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "3",
+      "l": "0",
+      "gf": "6",
+      "ga": "3",
+      "gd": "+3",
+      "pts": "9",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/98087f84a374960a.img"
+     },
+     {
+      "rank": 8,
+      "abbr": "HUL",
+      "team": "Hull",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/306.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "2",
+      "l": "1",
+      "gf": "6",
+      "ga": "4",
+      "gd": "+2",
+      "pts": "8",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/b1acd74c2f83bac8.img"
+     },
+     {
+      "rank": 9,
+      "abbr": "NEW",
+      "team": "Newcastle",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "2",
+      "l": "1",
+      "gf": "9",
+      "ga": "9",
+      "gd": "0",
+      "pts": "8",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/471b5c3a464a4380.img"
+     },
+     {
+      "rank": 10,
+      "abbr": "CHE",
+      "team": "Chelsea",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "1",
+      "l": "2",
+      "gf": "10",
+      "ga": "12",
+      "gd": "-2",
+      "pts": "7",
+      "note": null,
+      "noteColor": null,
+      "me": true,
+      "logoLocal": "/img/9533c4cd90427e31.img"
+     },
+     {
+      "rank": 11,
+      "abbr": "IPS",
+      "team": "Ipswich",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/373.png&h=80&w=80",
+      "p": "5",
+      "w": "2",
+      "d": "0",
+      "l": "3",
+      "gf": "7",
+      "ga": "11",
+      "gd": "-4",
+      "pts": "6",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/7b64928a76b7f5d2.img"
+     },
+     {
+      "rank": 12,
+      "abbr": "MAN",
+      "team": "Man United",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "2",
+      "l": "2",
+      "gf": "8",
+      "ga": "8",
+      "gd": "0",
+      "pts": "5",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/c6a4352a973878e6.img"
+     },
+     {
+      "rank": 13,
+      "abbr": "NFO",
+      "team": "Nottm Forest",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/393.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "2",
+      "l": "2",
+      "gf": "4",
+      "ga": "5",
+      "gd": "-1",
+      "pts": "5",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/617710f4faf2ee50.img"
+     },
+     {
+      "rank": 14,
+      "abbr": "SUN",
+      "team": "Sunderland",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/366.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "1",
+      "l": "3",
+      "gf": "6",
+      "ga": "10",
+      "gd": "-4",
+      "pts": "4",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/d8e75a252ed86a1c.img"
+     },
+     {
+      "rank": 15,
+      "abbr": "CRY",
+      "team": "C Palace",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "1",
+      "l": "3",
+      "gf": "6",
+      "ga": "11",
+      "gd": "-5",
+      "pts": "4",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/25a99b69cb9f9ce7.img"
+     },
+     {
+      "rank": 16,
+      "abbr": "AVL",
+      "team": "Aston Villa",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/362.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "1",
+      "l": "3",
+      "gf": "4",
+      "ga": "9",
+      "gd": "-5",
+      "pts": "4",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/50ca6e95e73b1b05.img"
+     },
+     {
+      "rank": 17,
+      "abbr": "BOU",
+      "team": "Bournemouth",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&h=80&w=80",
+      "p": "5",
+      "w": "0",
+      "d": "3",
+      "l": "2",
+      "gf": "6",
+      "ga": "8",
+      "gd": "-2",
+      "pts": "3",
+      "note": null,
+      "noteColor": null,
+      "me": false,
+      "logoLocal": "/img/18f0ffdb0c8fc2b6.img"
+     },
+     {
+      "rank": 18,
+      "abbr": "COV",
+      "team": "Coventry",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/388.png&h=80&w=80",
+      "p": "5",
+      "w": "1",
+      "d": "0",
+      "l": "4",
+      "gf": "1",
+      "ga": "10",
+      "gd": "-9",
+      "pts": "3",
+      "note": "Relegation",
+      "noteColor": "#FF7F84",
+      "me": false,
+      "logoLocal": "/img/c85a314da8566fab.img"
+     },
+     {
+      "rank": 19,
+      "abbr": "FUL",
+      "team": "Fulham",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/370.png&h=80&w=80",
+      "p": "5",
+      "w": "0",
+      "d": "2",
+      "l": "3",
+      "gf": "5",
+      "ga": "8",
+      "gd": "-3",
+      "pts": "2",
+      "note": "Relegation",
+      "noteColor": "#FF7F84",
+      "me": false,
+      "logoLocal": "/img/3562b7aa0defb509.img"
+     },
+     {
+      "rank": 20,
+      "abbr": "TOT",
+      "team": "Spurs",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=80&w=80",
+      "p": "5",
+      "w": "0",
+      "d": "2",
+      "l": "3",
+      "gf": "2",
+      "ga": "8",
+      "gd": "-6",
+      "pts": "2",
+      "note": "Relegation",
+      "noteColor": "#FF7F84",
+      "me": false,
+      "logoLocal": "/img/71237314630109ba.img"
+     }
+    ],
+    "note": "Full table from ESPN's standings feed. Last 5 and fixtures are all competitions (friendlies excluded)."
+   },
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=80&w=80",
+   "facts": [
+    [
+     "Goals for",
+     "10"
+    ],
+    [
+     "Goals against",
+     "12"
+    ],
+    [
+     "Goal difference",
+     "-2"
+    ],
+    [
+     "Played",
+     "5"
+    ]
+   ],
+   "headline": {
+    "title": "Chelsea vs. Bournemouth LIVE: Premier League updates, score and commentary",
+    "desc": "Chelsea host Bournemouth at Stamford Bridge as both sides look to bounce back from defeats before the international break and you can follow the action live on ESPN.",
+    "url": "https://www.espn.com/soccer/story/_/id/50146916/chelsea-bournemouth-live-premier-league-latest-updates-commentary-score-result",
+    "published": "2026-10-10T15:07:00Z",
+    "publishedEt": "Sat Oct 10 \u00b7 11:07 AM ET",
+    "byline": "Tom Masters",
+    "type": "Story",
+    "image": "https://a.espncdn.com/photo/2026/1010/r1728685_1296x729_16-9.jpg",
+    "source": "ESPN news API (team feed)",
+    "imageLocal": "/img/6471f29a3f8f585f.jpg"
+   },
+   "more": [
+    {
+     "title": "Premier League live updates: Chelsea host Bournemouth; Aston Villa face Brentford",
+     "url": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+     "publishedEt": "Sat Oct 10 \u00b7 10:57 AM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "Chelsea's Cole Palmer signs new contract until 2034",
+     "url": "https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso",
+     "publishedEt": "Sat Oct 10 \u00b7 7:08 AM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
+     "url": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
+     "publishedEt": "Fri Oct 9 \u00b7 5:34 PM ET",
+     "source": "ESPN"
+    }
+   ],
+   "sources": [
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:52Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/363/schedule",
+     "error": null,
+     "from": null,
+     "name": "Chelsea results (all comps)"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:53Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/363/schedule?fixture=true",
+     "error": null,
+     "from": null,
+     "name": "Chelsea fixtures (all comps)"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:53Z",
+     "url": "https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
+     "error": null,
+     "from": null,
+     "name": "Premier League table"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T14:49:35Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/363",
+     "error": null,
+     "from": null,
+     "name": "Chelsea team"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:53Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/news?team=363&limit=30",
+     "error": null,
+     "from": null,
+     "name": "Chelsea news"
+    }
+   ],
+   "logoLocal": "/img/9533c4cd90427e31.img"
+  },
+  {
+   "key": "orioles",
+   "name": "Orioles",
+   "full": "Baltimore Orioles",
+   "abbr": "BAL",
+   "colors": [
+    "#DF4601",
+    "#000000"
+   ],
+   "sport": "baseball",
+   "league": "mlb",
+   "leagueLabel": "MLB",
+   "record": "79-82",
+   "recordLabel": "2026 final regular season",
+   "splits": {
+    "Home": "39-42",
+    "Road": "40-40"
+   },
+   "standing": "4th in AL East \u00b7 18.5 GB",
+   "espnStanding": "4th in AL East",
+   "seasonOver": true,
+   "last": [
+    {
+     "id": "401817073",
+     "date": "2026-09-25T23:30Z",
+     "timeValid": true,
+     "et": "Fri Sep 25 \u00b7 7:30 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "New York Yankees",
+     "oppShort": "Yankees",
+     "oppAbbr": "NYY",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "3",
+     "oppScore": "6",
+     "result": "L",
+     "tv": [
+      "MLB.TV",
+      "MASN",
+      "YES"
+     ],
+     "venue": "Yankee Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": null,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401817073/orioles-yankees",
+     "oppLogoLocal": "/img/839362e20ead67b7.img"
+    },
+    {
+     "id": "401817088",
+     "date": "2026-09-25T20:05Z",
+     "timeValid": true,
+     "et": "Fri Sep 25 \u00b7 4:05 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "New York Yankees",
+     "oppShort": "Yankees",
+     "oppAbbr": "NYY",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "10",
+     "oppScore": "2",
+     "result": "W",
+     "tv": [
+      "MLB.TV",
+      "YES",
+      "MASN"
+     ],
+     "venue": "Yankee Stadium",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": null,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401817088/orioles-yankees",
+     "oppLogoLocal": "/img/839362e20ead67b7.img"
+    },
+    {
+     "id": "401817050",
+     "date": "2026-09-23T22:35Z",
+     "timeValid": true,
+     "et": "Wed Sep 23 \u00b7 6:35 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Toronto Blue Jays",
+     "oppShort": "Blue Jays",
+     "oppAbbr": "TOR",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "4",
+     "oppScore": "2",
+     "result": "W",
+     "tv": [
+      "MLB.TV",
+      "MASN",
+      "Sportsnet"
+     ],
+     "venue": "Oriole Park at Camden Yards",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": null,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401817050/blue-jays-orioles",
+     "oppLogoLocal": "/img/07257796bd7f8342.img"
+    },
+    {
+     "id": "401923610",
+     "date": "2026-09-23T17:35Z",
+     "timeValid": true,
+     "et": "Wed Sep 23 \u00b7 1:35 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Toronto Blue Jays",
+     "oppShort": "Blue Jays",
+     "oppAbbr": "TOR",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "4",
+     "oppScore": "2",
+     "result": "W",
+     "tv": [
+      "MLB.TV",
+      "Sportsnet",
+      "TVA"
+     ],
+     "venue": "Oriole Park at Camden Yards",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": null,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401923610/blue-jays-orioles",
+     "oppLogoLocal": "/img/07257796bd7f8342.img"
+    },
+    {
+     "id": "401817027",
+     "date": "2026-09-21T22:35Z",
+     "timeValid": true,
+     "et": "Mon Sep 21 \u00b7 6:35 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Toronto Blue Jays",
+     "oppShort": "Blue Jays",
+     "oppAbbr": "TOR",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "4",
+     "oppScore": "3",
+     "result": "W",
+     "tv": [
+      "ESPN Unlmtd",
+      "MLB.TV",
+      "MASN"
+     ],
+     "venue": "Oriole Park at Camden Yards",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": null,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401817027/blue-jays-orioles",
+     "oppLogoLocal": "/img/07257796bd7f8342.img"
+    }
+   ],
+   "next": [],
+   "spark": {
+    "label": "2026 \u00b7 games over .500 after each game",
+    "kind": "over500",
+    "points": [
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2026-03-26",
+      "opp": "MIN",
+      "s": "2-1"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2026-03-28",
+      "opp": "MIN",
+      "s": "1-4"
+     },
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2026-03-29",
+      "opp": "MIN",
+      "s": "8-6"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2026-03-30",
+      "opp": "TEX",
+      "s": "2-5"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-03-31",
+      "opp": "TEX",
+      "s": "5-8"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-01",
+      "opp": "TEX",
+      "s": "8-3"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-03",
+      "opp": "PIT",
+      "s": "4-5"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-04-04",
+      "opp": "PIT",
+      "s": "2-3"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-04-05",
+      "opp": "PIT",
+      "s": "2-8"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-04-06",
+      "opp": "CHW",
+      "s": "2-1"
+     },
+     {
+      "v": -1,
+      "r": "W",
+      "d": "2026-04-07",
+      "opp": "CHW",
+      "s": "4-2"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-08",
+      "opp": "CHW",
+      "s": "5-3"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-10",
+      "opp": "SF",
+      "s": "3-6"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-11",
+      "opp": "SF",
+      "s": "6-2"
+     },
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2026-04-12",
+      "opp": "SF",
+      "s": "6-2"
+     },
+     {
+      "v": 2,
+      "r": "W",
+      "d": "2026-04-13",
+      "opp": "ARI",
+      "s": "9-7"
+     },
+     {
+      "v": 1,
+      "r": "L",
+      "d": "2026-04-14",
+      "opp": "ARI",
+      "s": "3-4"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2026-04-15",
+      "opp": "ARI",
+      "s": "5-8"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-16",
+      "opp": "CLE",
+      "s": "2-4"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-17",
+      "opp": "CLE",
+      "s": "6-4"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-18",
+      "opp": "CLE",
+      "s": "2-4"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-04-19",
+      "opp": "CLE",
+      "s": "4-8"
+     },
+     {
+      "v": -1,
+      "r": "W",
+      "d": "2026-04-20",
+      "opp": "KC",
+      "s": "7-5"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-04-21",
+      "opp": "KC",
+      "s": "5-6"
+     },
+     {
+      "v": -1,
+      "r": "W",
+      "d": "2026-04-22",
+      "opp": "KC",
+      "s": "8-6"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-24",
+      "opp": "BOS",
+      "s": "10-3"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-25",
+      "opp": "BOS",
+      "s": "1-17"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-04-26",
+      "opp": "BOS",
+      "s": "3-5"
+     },
+     {
+      "v": -1,
+      "r": "W",
+      "d": "2026-04-28",
+      "opp": "HOU",
+      "s": "5-3"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-04-30",
+      "opp": "HOU",
+      "s": "10-3"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-04-30",
+      "opp": "HOU",
+      "s": "5-11"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-05-01",
+      "opp": "NYY",
+      "s": "2-7"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-05-02",
+      "opp": "NYY",
+      "s": "4-9"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-05-03",
+      "opp": "NYY",
+      "s": "3-11"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-05-04",
+      "opp": "NYY",
+      "s": "1-12"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-05-05",
+      "opp": "MIA",
+      "s": "9-7"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-05-06",
+      "opp": "MIA",
+      "s": "7-4"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-05-07",
+      "opp": "MIA",
+      "s": "3-4"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-05-08",
+      "opp": "ATH",
+      "s": "3-4"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-05-09",
+      "opp": "ATH",
+      "s": "2-6"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-05-10",
+      "opp": "ATH",
+      "s": "2-1"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-05-11",
+      "opp": "NYY",
+      "s": "3-2"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-05-12",
+      "opp": "NYY",
+      "s": "2-6"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-05-13",
+      "opp": "NYY",
+      "s": "7-0"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-05-15",
+      "opp": "WSH",
+      "s": "2-3"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-05-16",
+      "opp": "WSH",
+      "s": "3-13"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-05-17",
+      "opp": "WSH",
+      "s": "7-3"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-05-18",
+      "opp": "TB",
+      "s": "6-16"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-05-19",
+      "opp": "TB",
+      "s": "1-4"
+     },
+     {
+      "v": -8,
+      "r": "L",
+      "d": "2026-05-20",
+      "opp": "TB",
+      "s": "3-5"
+     },
+     {
+      "v": -7,
+      "r": "W",
+      "d": "2026-05-22",
+      "opp": "DET",
+      "s": "7-4"
+     },
+     {
+      "v": -6,
+      "r": "W",
+      "d": "2026-05-24",
+      "opp": "DET",
+      "s": "5-3"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-05-24",
+      "opp": "DET",
+      "s": "1-4"
+     },
+     {
+      "v": -6,
+      "r": "W",
+      "d": "2026-05-25",
+      "opp": "TB",
+      "s": "9-7"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-05-26",
+      "opp": "TB",
+      "s": "6-1"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-05-27",
+      "opp": "TB",
+      "s": "11-2"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-05-28",
+      "opp": "TOR",
+      "s": "1-2"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-05-29",
+      "opp": "TOR",
+      "s": "5-6"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-05-30",
+      "opp": "TOR",
+      "s": "6-5"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-05-31",
+      "opp": "TOR",
+      "s": "9-5"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-06-02",
+      "opp": "BOS",
+      "s": "4-2"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-06-03",
+      "opp": "BOS",
+      "s": "1-8"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-06-04",
+      "opp": "BOS",
+      "s": "8-2"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-06-05",
+      "opp": "TOR",
+      "s": "13-3"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-06-06",
+      "opp": "TOR",
+      "s": "4-6"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-06-07",
+      "opp": "TOR",
+      "s": "4-6"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-06-08",
+      "opp": "SEA",
+      "s": "3-6"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-06-09",
+      "opp": "SEA",
+      "s": "5-6"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-06-10",
+      "opp": "SEA",
+      "s": "7-2"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-06-11",
+      "opp": "SEA",
+      "s": "7-5"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-06-12",
+      "opp": "SD",
+      "s": "7-3"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-06-13",
+      "opp": "SD",
+      "s": "3-9"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-06-14",
+      "opp": "SD",
+      "s": "2-5"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-06-17",
+      "opp": "SEA",
+      "s": "1-3"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-06-18",
+      "opp": "SEA",
+      "s": "5-3"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-06-18",
+      "opp": "SEA",
+      "s": "0-3"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-06-20",
+      "opp": "LAD",
+      "s": "5-6"
+     },
+     {
+      "v": -6,
+      "r": "W",
+      "d": "2026-06-21",
+      "opp": "LAD",
+      "s": "3-2"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-06-21",
+      "opp": "LAD",
+      "s": "12-1"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-06-23",
+      "opp": "LAA",
+      "s": "6-1"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-06-24",
+      "opp": "LAA",
+      "s": "1-5"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-06-24",
+      "opp": "LAA",
+      "s": "6-7"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-06-26",
+      "opp": "WSH",
+      "s": "3-1"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-06-27",
+      "opp": "WSH",
+      "s": "3-4"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-06-28",
+      "opp": "WSH",
+      "s": "4-6"
+     },
+     {
+      "v": -8,
+      "r": "L",
+      "d": "2026-06-29",
+      "opp": "CHW",
+      "s": "2-8"
+     },
+     {
+      "v": -9,
+      "r": "L",
+      "d": "2026-06-30",
+      "opp": "CHW",
+      "s": "3-9"
+     },
+     {
+      "v": -8,
+      "r": "W",
+      "d": "2026-07-01",
+      "opp": "CHW",
+      "s": "6-1"
+     },
+     {
+      "v": -7,
+      "r": "W",
+      "d": "2026-07-03",
+      "opp": "CIN",
+      "s": "3-0"
+     },
+     {
+      "v": -6,
+      "r": "W",
+      "d": "2026-07-04",
+      "opp": "CIN",
+      "s": "8-5"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-07-05",
+      "opp": "CIN",
+      "s": "2-3"
+     },
+     {
+      "v": -8,
+      "r": "L",
+      "d": "2026-07-07",
+      "opp": "CHC",
+      "s": "2-5"
+     },
+     {
+      "v": -9,
+      "r": "L",
+      "d": "2026-07-08",
+      "opp": "CHC",
+      "s": "7-9"
+     },
+     {
+      "v": -8,
+      "r": "W",
+      "d": "2026-07-09",
+      "opp": "CHC",
+      "s": "3-2"
+     },
+     {
+      "v": -7,
+      "r": "W",
+      "d": "2026-07-10",
+      "opp": "KC",
+      "s": "5-3"
+     },
+     {
+      "v": -6,
+      "r": "W",
+      "d": "2026-07-11",
+      "opp": "KC",
+      "s": "6-1"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-07-12",
+      "opp": "KC",
+      "s": "8-2"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-07-18",
+      "opp": "HOU",
+      "s": "3-2"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-07-18",
+      "opp": "HOU",
+      "s": "4-2"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-07-19",
+      "opp": "HOU",
+      "s": "5-2"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-07-20",
+      "opp": "BOS",
+      "s": "5-6"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-07-22",
+      "opp": "BOS",
+      "s": "3-6"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-07-22",
+      "opp": "BOS",
+      "s": "5-1"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-07-24",
+      "opp": "ATL",
+      "s": "6-7"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-07-25",
+      "opp": "ATL",
+      "s": "3-2"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-07-26",
+      "opp": "ATL",
+      "s": "2-3"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-07-27",
+      "opp": "DET",
+      "s": "8-5"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-07-28",
+      "opp": "DET",
+      "s": "0-14"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-07-29",
+      "opp": "DET",
+      "s": "10-9"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-07-31",
+      "opp": "PHI",
+      "s": "6-4"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-08-01",
+      "opp": "PHI",
+      "s": "0-5"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-08-02",
+      "opp": "PHI",
+      "s": "0-8"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-08-04",
+      "opp": "LAA",
+      "s": "3-1"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-08-05",
+      "opp": "LAA",
+      "s": "5-2"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-08-06",
+      "opp": "LAA",
+      "s": "1-4"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-08-08",
+      "opp": "TEX",
+      "s": "1-2"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-08-08",
+      "opp": "TEX",
+      "s": "1-5"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-08-09",
+      "opp": "TEX",
+      "s": "10-5"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-08-10",
+      "opp": "MIN",
+      "s": "5-9"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-08-11",
+      "opp": "MIN",
+      "s": "5-2"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-08-12",
+      "opp": "MIN",
+      "s": "5-7"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-08-14",
+      "opp": "TB",
+      "s": "6-5"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-08-15",
+      "opp": "TB",
+      "s": "4-3"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-08-16",
+      "opp": "TB",
+      "s": "10-2"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-08-17",
+      "opp": "TB",
+      "s": "6-7"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-08-18",
+      "opp": "NYY",
+      "s": "1-3"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-08-19",
+      "opp": "NYY",
+      "s": "3-5"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-08-20",
+      "opp": "NYY",
+      "s": "1-6"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-08-21",
+      "opp": "TB",
+      "s": "5-3"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-08-22",
+      "opp": "TB",
+      "s": "3-2"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-08-23",
+      "opp": "TB",
+      "s": "1-3"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-08-25",
+      "opp": "STL",
+      "s": "13-1"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-08-26",
+      "opp": "STL",
+      "s": "8-7"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-08-27",
+      "opp": "STL",
+      "s": "5-7"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-08-29",
+      "opp": "ATH",
+      "s": "4-3"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-08-30",
+      "opp": "ATH",
+      "s": "5-3"
+     },
+     {
+      "v": -1,
+      "r": "W",
+      "d": "2026-08-30",
+      "opp": "ATH",
+      "s": "8-5"
+     },
+     {
+      "v": 0,
+      "r": "W",
+      "d": "2026-09-01",
+      "opp": "COL",
+      "s": "2-1"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-09-02",
+      "opp": "COL",
+      "s": "2-4"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-09-02",
+      "opp": "COL",
+      "s": "5-6"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-09-03",
+      "opp": "BOS",
+      "s": "5-6"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-09-04",
+      "opp": "BOS",
+      "s": "0-1"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-09-05",
+      "opp": "BOS",
+      "s": "0-5"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-09-06",
+      "opp": "BOS",
+      "s": "1-3"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-09-07",
+      "opp": "CLE",
+      "s": "6-4"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-09-08",
+      "opp": "CLE",
+      "s": "5-9"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-09-09",
+      "opp": "CLE",
+      "s": "9-5"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-09-11",
+      "opp": "TOR",
+      "s": "7-4"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-09-12",
+      "opp": "TOR",
+      "s": "3-7"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-09-13",
+      "opp": "TOR",
+      "s": "1-8"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-09-14",
+      "opp": "NYM",
+      "s": "2-1"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-09-15",
+      "opp": "NYM",
+      "s": "7-5"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-09-16",
+      "opp": "NYM",
+      "s": "7-1"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-09-18",
+      "opp": "MIL",
+      "s": "5-6"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-09-19",
+      "opp": "MIL",
+      "s": "0-1"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-09-20",
+      "opp": "MIL",
+      "s": "0-3"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-09-21",
+      "opp": "TOR",
+      "s": "4-3"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-09-23",
+      "opp": "TOR",
+      "s": "4-2"
+     },
+     {
+      "v": -3,
+      "r": "W",
+      "d": "2026-09-23",
+      "opp": "TOR",
+      "s": "4-2"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-09-25",
+      "opp": "NYY",
+      "s": "10-2"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-09-25",
+      "opp": "NYY",
+      "s": "3-6"
+     }
+    ],
+    "w": 79,
+    "l": 82,
+    "t": 0
+   },
+   "seasonSummary": {
+    "w": 79,
+    "l": 82,
+    "rs": 718,
+    "ra": 739,
+    "diff": -21,
+    "longestWin": 7,
+    "longestLoss": 6,
+    "months": [
+     {
+      "m": "Mar",
+      "w": 2,
+      "l": 3
+     },
+     {
+      "m": "Apr",
+      "w": 13,
+      "l": 13
+     },
+     {
+      "m": "May",
+      "w": 13,
+      "l": 16
+     },
+     {
+      "m": "Jun",
+      "w": 11,
+      "l": 16
+     },
+     {
+      "m": "Jul",
+      "w": 15,
+      "l": 8
+     },
+     {
+      "m": "Aug",
+      "w": 15,
+      "l": 13
+     },
+     {
+      "m": "Sep",
+      "w": 10,
+      "l": 13
+     }
+    ],
+    "oneRun": "18-24",
+    "vsDiv": "22-29",
+    "peak": {
+     "v": 2,
+     "r": "W",
+     "d": "2026-04-13",
+     "opp": "ARI",
+     "s": "9-7"
+    },
+    "low": {
+     "v": -9,
+     "r": "L",
+     "d": "2026-06-30",
+     "opp": "CHW",
+     "s": "3-9"
+    },
+    "first": "2026-03-26",
+    "lastGame": "2026-09-25",
+    "games": 161
+   },
+   "table": {
+    "title": "AL East \u00b7 final",
+    "cols": [
+     "W",
+     "L",
+     "PCT",
+     "GB",
+     "RS",
+     "RA",
+     "DIFF",
+     "L10"
+    ],
+    "rows": [
+     {
+      "abbr": "TB",
+      "team": "Rays",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&h=80&w=80",
+      "w": "98",
+      "l": "64",
+      "pct": ".605",
+      "gb": "-",
+      "rs": "736",
+      "ra": "650",
+      "diff": "+86",
+      "home": "55-26",
+      "road": "43-38",
+      "l10": "5-5",
+      "clinch": "*",
+      "me": false,
+      "logoLocal": "/img/44cf4e30516f4688.img"
+     },
+     {
+      "abbr": "NYY",
+      "team": "Yankees",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&h=80&w=80",
+      "w": "93",
+      "l": "68",
+      "pct": ".578",
+      "gb": "4.5",
+      "rs": "739",
+      "ra": "601",
+      "diff": "+138",
+      "home": "46-34",
+      "road": "47-34",
+      "l10": "5-5",
+      "clinch": "y",
+      "me": false,
+      "logoLocal": "/img/839362e20ead67b7.img"
+     },
+     {
+      "abbr": "BOS",
+      "team": "Red Sox",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&h=80&w=80",
+      "w": "87",
+      "l": "75",
+      "pct": ".537",
+      "gb": "11",
+      "rs": "689",
+      "ra": "611",
+      "diff": "+78",
+      "home": "41-40",
+      "road": "46-35",
+      "l10": "5-5",
+      "clinch": "y",
+      "me": false,
+      "logoLocal": "/img/0525d333ec64fe9f.img"
+     },
+     {
+      "abbr": "BAL",
+      "team": "Orioles",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&h=80&w=80",
+      "w": "79",
+      "l": "82",
+      "pct": ".491",
+      "gb": "18.5",
+      "rs": "718",
+      "ra": "739",
+      "diff": "-21",
+      "home": "39-42",
+      "road": "40-40",
+      "l10": "6-4",
+      "clinch": "e",
+      "me": true,
+      "logoLocal": "/img/306e238118a9b1aa.img"
+     },
+     {
+      "abbr": "TOR",
+      "team": "Blue Jays",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80",
+      "w": "79",
+      "l": "83",
+      "pct": ".488",
+      "gb": "19",
+      "rs": "648",
+      "ra": "694",
+      "diff": "-46",
+      "home": "42-39",
+      "road": "37-44",
+      "l10": "4-6",
+      "clinch": "e",
+      "me": false,
+      "logoLocal": "/img/07257796bd7f8342.img"
+     }
+    ],
+    "note": "Final 2026 regular-season standings from ESPN."
+   },
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&h=80&w=80",
+   "facts": [
+    [
+     "Run differential",
+     "-21"
+    ],
+    [
+     "Runs scored",
+     "718"
+    ],
+    [
+     "Runs allowed",
+     "739"
+    ],
+    [
+     "Last 10",
+     "6-4"
+    ]
+   ],
+   "headline": {
+    "title": "Watch top prospects in Arizona Fall League action tonight",
+    "desc": null,
+    "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+    "published": "2026-10-10T02:53:00Z",
+    "publishedEt": "Fri Oct 9 \u00b7 10:53 PM ET",
+    "image": null,
+    "source": "MLB.com Orioles news RSS",
+    "type": "Story"
+   },
+   "more": [
+    {
+     "title": "Rain forces cancellation of Orioles-Yankees regular-season finale",
+     "url": "https://www.espn.com/mlb/story/_/id/50045225/rain-forces-cancellation-orioles-yankees-regular-season-finale",
+     "publishedEt": "Sun Sep 27 \u00b7 4:38 PM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "How Cowser believes he can return to form for O's in '27",
+     "url": "https://www.mlb.com/orioles/news/colton-cowser-2026-season-orioles-goals-for-2027",
+     "publishedEt": "Fri Oct 9 \u00b7 6:36 AM ET",
+     "source": "MLB.com"
+    },
+    {
+     "title": "Consider O's RHP prospect Reilly both older and wiser after return from Tommy John surgery",
+     "url": "https://www.mlb.com/orioles/news/orioles-prospect-patrick-reilly-starts-arizona-fall-league-campaign-strong",
+     "publishedEt": "Thu Oct 8 \u00b7 9:00 PM ET",
+     "source": "MLB.com"
+    },
+    {
+     "title": "Here are each organization's Prospects of the Year",
+     "url": "https://www.mlb.com/orioles/news/each-team-s-prospects-of-the-year-2026",
+     "publishedEt": "Wed Oct 7 \u00b7 10:21 PM ET",
+     "source": "MLB.com"
+    }
+   ],
+   "sources": [
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T12:21:25Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams/bal/schedule?seasontype=2",
+     "error": null,
+     "from": null,
+     "name": "Orioles 2026 regular-season schedule"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:54Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams/bal/schedule",
+     "error": null,
+     "from": null,
+     "name": "Orioles current schedule"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T14:49:35Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams/bal",
+     "error": null,
+     "from": null,
+     "name": "Orioles team"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T12:21:25Z",
+     "url": "https://site.api.espn.com/apis/v2/sports/baseball/mlb/standings?level=3",
+     "error": null,
+     "from": null,
+     "name": "MLB standings"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:54Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/news?team=bal&limit=30",
+     "error": null,
+     "from": null,
+     "name": "Orioles news"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:54Z",
+     "url": "https://www.mlb.com/orioles/feeds/news/rss.xml",
+     "error": null,
+     "from": null,
+     "name": "MLB.com Orioles news RSS"
+    }
+   ],
+   "logoLocal": "/img/306e238118a9b1aa.img"
+  },
+  {
+   "key": "terps",
+   "name": "Terps",
+   "full": "Maryland Terrapins men's basketball",
+   "abbr": "MD",
+   "colors": [
+    "#E21833",
+    "#FFD200"
+   ],
+   "sport": "basketball",
+   "league": "mens-college-basketball",
+   "leagueLabel": "Big Ten \u00b7 Men's Basketball",
+   "record": "0-0",
+   "recordLabel": "2026-27 \u00b7 season not started",
+   "preseason": {
+    "opener": {
+     "id": "401916296",
+     "date": "2026-11-03T00:00Z",
+     "timeValid": true,
+     "et": "Mon Nov 2 \u00b7 7:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Bucknell Bison",
+     "oppShort": "Bucknell",
+     "oppAbbr": "BUCK",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2083.png&h=80&w=80",
+     "state": "pre",
+     "status": "11/2 - 7:00 PM EST",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "B1G+"
+     ],
+     "venue": "XFINITY Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 1",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916296/bucknell-maryland",
+     "oppLogoLocal": "/img/fbafbe30cd392a45.img"
+    },
+    "daysToOpener": 23,
+    "games": 30,
+    "home": 17,
+    "away": 11,
+    "neutral": 2,
+    "bigTen": 20,
+    "tv": [
+     [
+      "BTN",
+      11
+     ],
+     [
+      "Peacock",
+      7
+     ],
+     [
+      "FS1",
+      7
+     ],
+     [
+      "B1G+",
+      3
+     ],
+     [
+      "ESPN",
+      1
+     ],
+     [
+      "Fox",
+      1
+     ]
+    ],
+    "lastSeasonRecord": "12-21",
+    "lastSeasonGames": 33,
+    "lastSeasonFinal": {
+     "id": "401851365",
+     "date": "2026-03-11T16:00Z",
+     "timeValid": true,
+     "et": "Wed Mar 11 \u00b7 12:00 PM ET",
+     "home": false,
+     "neutral": true,
+     "opp": "Iowa Hawkeyes",
+     "oppShort": "Iowa",
+     "oppAbbr": "IOWA",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "64",
+     "oppScore": "75",
+     "result": "L",
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "United Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 19",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401851365/maryland-iowa",
+     "oppLogoLocal": "/img/d402a8344ef9d9ce.img"
+    },
+    "fullSchedule": [
+     {
+      "et": "Mon Nov 2 \u00b7 7:00 PM ET",
+      "opp": "Bucknell",
+      "abbr": "BUCK",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "B1G+"
+      ],
+      "date": "2026-11-03T00:00Z"
+     },
+     {
+      "et": "Sat Nov 7 \u00b7 7:30 PM ET",
+      "opp": "Georgetown",
+      "abbr": "GTWN",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2026-11-08T00:30Z"
+     },
+     {
+      "et": "Fri Nov 13 \u00b7 8:00 PM ET",
+      "opp": "Virginia",
+      "abbr": "UVA",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2026-11-14T01:00Z"
+     },
+     {
+      "et": "Mon Nov 16 \u00b7 6:00 PM ET",
+      "opp": "Alcorn St",
+      "abbr": "ALCN",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2026-11-16T23:00Z"
+     },
+     {
+      "et": "Fri Nov 20 \u00b7 7:00 PM ET",
+      "opp": "Wagner",
+      "abbr": "WAG",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "B1G+"
+      ],
+      "date": "2026-11-21T00:00Z"
+     },
+     {
+      "et": "Tue Nov 24 \u00b7 3:00 PM ET",
+      "opp": "Tennessee",
+      "abbr": "TENN",
+      "home": true,
+      "neutral": true,
+      "tv": [
+       "ESPN"
+      ],
+      "date": "2026-11-24T20:00Z"
+     },
+     {
+      "et": "Wed Dec 2 \u00b7 7:00 PM ET",
+      "opp": "American",
+      "abbr": "AMER",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "B1G+"
+      ],
+      "date": "2026-12-03T00:00Z"
+     },
+     {
+      "et": "Sun Dec 6 \u00b7 12:00 PM ET",
+      "opp": "Ohio State",
+      "abbr": "OSU",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2026-12-06T17:00Z"
+     },
+     {
+      "et": "Wed Dec 9 \u00b7 8:30 PM ET",
+      "opp": "Michigan St",
+      "abbr": "MSU",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2026-12-10T01:30Z"
+     },
+     {
+      "et": "Tue Dec 15 \u00b7 8:00 PM ET",
+      "opp": "Morgan St",
+      "abbr": "MORG",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2026-12-16T01:00Z"
+     },
+     {
+      "et": "Sat Dec 19 \u00b7 1:00 PM ET",
+      "opp": "South Carolina",
+      "abbr": "SC",
+      "home": true,
+      "neutral": true,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2026-12-19T18:00Z"
+     },
+     {
+      "et": "Tue Dec 29 \u00b7 6:30 PM ET",
+      "opp": "Radford",
+      "abbr": "RAD",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2026-12-29T23:30Z"
+     },
+     {
+      "et": "Sat Jan 2 \u00b7 6:00 PM ET",
+      "opp": "UCLA",
+      "abbr": "UCLA",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-01-02T23:00Z"
+     },
+     {
+      "et": "Tue Jan 5 \u00b7 8:00 PM ET",
+      "opp": "USC",
+      "abbr": "USC",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-01-06T01:00Z"
+     },
+     {
+      "et": "Sat Jan 9 \u00b7 6:00 PM ET",
+      "opp": "Iowa",
+      "abbr": "IOWA",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-01-09T23:00Z"
+     },
+     {
+      "et": "Tue Jan 12 \u00b7 6:00 PM ET",
+      "opp": "Indiana",
+      "abbr": "IU",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-01-12T23:00Z"
+     },
+     {
+      "et": "Sat Jan 16 \u00b7 2:00 PM ET",
+      "opp": "Illinois",
+      "abbr": "ILL",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2027-01-16T19:00Z"
+     },
+     {
+      "et": "Tue Jan 19 \u00b7 7:00 PM ET",
+      "opp": "Rutgers",
+      "abbr": "RUTG",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-01-20T00:00Z"
+     },
+     {
+      "et": "Sat Jan 23 \u00b7 12:00 PM ET",
+      "opp": "Purdue",
+      "abbr": "PUR",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-01-23T17:00Z"
+     },
+     {
+      "et": "Tue Jan 26 \u00b7 7:00 PM ET",
+      "opp": "Wisconsin",
+      "abbr": "WIS",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2027-01-27T00:00Z"
+     },
+     {
+      "et": "Sat Jan 30 \u00b7 12:00 PM ET",
+      "opp": "Penn State",
+      "abbr": "PSU",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-01-30T17:00Z"
+     },
+     {
+      "et": "Tue Feb 2 \u00b7 7:00 PM ET",
+      "opp": "Michigan St",
+      "abbr": "MSU",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2027-02-03T00:00Z"
+     },
+     {
+      "et": "Tue Feb 9 \u00b7 6:30 PM ET",
+      "opp": "Nebraska",
+      "abbr": "NEB",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-02-09T23:30Z"
+     },
+     {
+      "et": "Sat Feb 13 \u00b7 12:00 PM ET",
+      "opp": "Indiana",
+      "abbr": "IU",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "Fox"
+      ],
+      "date": "2027-02-13T17:00Z"
+     },
+     {
+      "et": "Wed Feb 17 \u00b7 9:00 PM ET",
+      "opp": "Oregon",
+      "abbr": "ORE",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-02-18T02:00Z"
+     },
+     {
+      "et": "Sat Feb 20 \u00b7 5:00 PM ET",
+      "opp": "Washington",
+      "abbr": "WASH",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2027-02-20T22:00Z"
+     },
+     {
+      "et": "Wed Feb 24 \u00b7 6:30 PM ET",
+      "opp": "Minnesota",
+      "abbr": "MINN",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-02-24T23:30Z"
+     },
+     {
+      "et": "Sun Feb 28 \u00b7 5:00 PM ET",
+      "opp": "Rutgers",
+      "abbr": "RUTG",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "Peacock"
+      ],
+      "date": "2027-02-28T22:00Z"
+     },
+     {
+      "et": "Thu Mar 4 \u00b7 6:30 PM ET",
+      "opp": "Michigan",
+      "abbr": "MICH",
+      "home": false,
+      "neutral": false,
+      "tv": [
+       "FS1"
+      ],
+      "date": "2027-03-04T23:30Z"
+     },
+     {
+      "et": "Sun Mar 7 \u00b7 1:00 PM ET",
+      "opp": "Northwestern",
+      "abbr": "NU",
+      "home": true,
+      "neutral": false,
+      "tv": [
+       "BTN"
+      ],
+      "date": "2027-03-07T18:00Z"
+     }
+    ]
+   },
+   "standing": "Opener Mon Nov 2 vs Bucknell",
+   "espnStanding": "17th in Big Ten",
+   "last": [
+    {
+     "id": "401851365",
+     "date": "2026-03-11T16:00Z",
+     "timeValid": true,
+     "et": "Wed Mar 11 \u00b7 12:00 PM ET",
+     "home": false,
+     "neutral": true,
+     "opp": "Iowa Hawkeyes",
+     "oppShort": "Iowa",
+     "oppAbbr": "IOWA",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "64",
+     "oppScore": "75",
+     "result": "L",
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "United Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 19",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401851365/maryland-iowa",
+     "oppLogoLocal": "/img/d402a8344ef9d9ce.img"
+    },
+    {
+     "id": "401851362",
+     "date": "2026-03-10T21:00Z",
+     "timeValid": true,
+     "et": "Tue Mar 10 \u00b7 5:00 PM ET",
+     "home": false,
+     "neutral": true,
+     "opp": "Oregon Ducks",
+     "oppShort": "Oregon",
+     "oppAbbr": "ORE",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2483.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "70",
+     "oppScore": "60",
+     "result": "W",
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "United Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 19",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401851362/maryland-oregon",
+     "oppLogoLocal": "/img/319076a68415a61d.img"
+    },
+    {
+     "id": "401825567",
+     "date": "2026-03-08T19:00Z",
+     "timeValid": true,
+     "et": "Sun Mar 8 \u00b7 3:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Illinois Fighting Illini",
+     "oppShort": "Illinois",
+     "oppAbbr": "ILL",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "72",
+     "oppScore": "78",
+     "result": "L",
+     "tv": [
+      "Fox"
+     ],
+     "venue": "XFINITY Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 18",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401825567/illinois-maryland",
+     "oppLogoLocal": "/img/d4d0bfd8f267a617.img"
+    },
+    {
+     "id": "401825559",
+     "date": "2026-03-05T01:00Z",
+     "timeValid": true,
+     "et": "Wed Mar 4 \u00b7 8:00 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Wisconsin Badgers",
+     "oppShort": "Wisconsin",
+     "oppAbbr": "WIS",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "45",
+     "oppScore": "78",
+     "result": "L",
+     "tv": [
+      "FS1"
+     ],
+     "venue": "Kohl Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 18",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401825559/maryland-wisconsin",
+     "oppLogoLocal": "/img/5feda9e2ed63923a.img"
+    },
+    {
+     "id": "401825551",
+     "date": "2026-03-01T17:00Z",
+     "timeValid": true,
+     "et": "Sun Mar 1 \u00b7 12:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Rutgers Scarlet Knights",
+     "oppShort": "Rutgers",
+     "oppAbbr": "RUTG",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=80&w=80",
+     "state": "post",
+     "status": "Final",
+     "completed": true,
+     "score": "65",
+     "oppScore": "69",
+     "result": "L",
+     "tv": [
+      "FS1"
+     ],
+     "venue": "XFINITY Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 17",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401825551/rutgers-maryland",
+     "oppLogoLocal": "/img/10a09a007bcaf897.img"
+    }
+   ],
+   "lastLabel": "Last 5 (end of 2025-26)",
+   "next": [
+    {
+     "id": "401916296",
+     "date": "2026-11-03T00:00Z",
+     "timeValid": true,
+     "et": "Mon Nov 2 \u00b7 7:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Bucknell Bison",
+     "oppShort": "Bucknell",
+     "oppAbbr": "BUCK",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2083.png&h=80&w=80",
+     "state": "pre",
+     "status": "11/2 - 7:00 PM EST",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "B1G+"
+     ],
+     "venue": "XFINITY Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 1",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916296/bucknell-maryland",
+     "oppLogoLocal": "/img/fbafbe30cd392a45.img"
+    },
+    {
+     "id": "401909513",
+     "date": "2026-11-08T00:30Z",
+     "timeValid": true,
+     "et": "Sat Nov 7 \u00b7 7:30 PM ET",
+     "home": false,
+     "neutral": false,
+     "opp": "Georgetown Hoyas",
+     "oppShort": "Georgetown",
+     "oppAbbr": "GTWN",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/46.png&h=80&w=80",
+     "state": "pre",
+     "status": "11/7 - 7:30 PM EST",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "Capital One Arena",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 1",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909513/maryland-georgetown",
+     "oppLogoLocal": "/img/4ac44c1907cc0802.img"
+    },
+    {
+     "id": "401916297",
+     "date": "2026-11-14T01:00Z",
+     "timeValid": true,
+     "et": "Fri Nov 13 \u00b7 8:00 PM ET",
+     "home": true,
+     "neutral": false,
+     "opp": "Virginia Cavaliers",
+     "oppShort": "Virginia",
+     "oppAbbr": "UVA",
+     "oppLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/258.png&h=80&w=80",
+     "state": "pre",
+     "status": "11/13 - 8:00 PM EST",
+     "completed": false,
+     "score": null,
+     "oppScore": null,
+     "result": null,
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "XFINITY Center",
+     "competition": "Regular Season",
+     "seasonType": "Regular Season",
+     "week": "Week 2",
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916297/virginia-maryland",
+     "oppLogoLocal": "/img/7a00f6172ff5a9f2.img"
+    }
+   ],
+   "spark": {
+    "label": "2025-26 \u00b7 games over .500 after each game",
+    "kind": "over500",
+    "points": [
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2025-11-03",
+      "opp": "COPP",
+      "s": "83-61"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2025-11-07",
+      "opp": "GTWN",
+      "s": "60-70"
+     },
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2025-11-12",
+      "opp": "ALCN",
+      "s": "84-64"
+     },
+     {
+      "v": 2,
+      "r": "W",
+      "d": "2025-11-15",
+      "opp": "MARQ",
+      "s": "89-82"
+     },
+     {
+      "v": 3,
+      "r": "W",
+      "d": "2025-11-20",
+      "opp": "MSM",
+      "s": "95-90"
+     },
+     {
+      "v": 4,
+      "r": "W",
+      "d": "2025-11-25",
+      "opp": "UNLV",
+      "s": "74-67"
+     },
+     {
+      "v": 3,
+      "r": "L",
+      "d": "2025-11-26",
+      "opp": "GONZ",
+      "s": "61-100"
+     },
+     {
+      "v": 2,
+      "r": "L",
+      "d": "2025-11-27",
+      "opp": "ALA",
+      "s": "72-105"
+     },
+     {
+      "v": 3,
+      "r": "W",
+      "d": "2025-12-03",
+      "opp": "WAG",
+      "s": "89-63"
+     },
+     {
+      "v": 2,
+      "r": "L",
+      "d": "2025-12-06",
+      "opp": "IOWA",
+      "s": "64-83"
+     },
+     {
+      "v": 1,
+      "r": "L",
+      "d": "2025-12-14",
+      "opp": "MICH",
+      "s": "83-101"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2025-12-20",
+      "opp": "UVA",
+      "s": "72-80"
+     },
+     {
+      "v": 1,
+      "r": "W",
+      "d": "2025-12-28",
+      "opp": "ODU",
+      "s": "73-58"
+     },
+     {
+      "v": 0,
+      "r": "L",
+      "d": "2026-01-03",
+      "opp": "ORE",
+      "s": "54-64"
+     },
+     {
+      "v": -1,
+      "r": "L",
+      "d": "2026-01-07",
+      "opp": "IU",
+      "s": "66-84"
+     },
+     {
+      "v": -2,
+      "r": "L",
+      "d": "2026-01-11",
+      "opp": "UCLA",
+      "s": "55-67"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-01-14",
+      "opp": "USC",
+      "s": "71-88"
+     },
+     {
+      "v": -2,
+      "r": "W",
+      "d": "2026-01-18",
+      "opp": "PSU",
+      "s": "96-73"
+     },
+     {
+      "v": -3,
+      "r": "L",
+      "d": "2026-01-22",
+      "opp": "ILL",
+      "s": "70-89"
+     },
+     {
+      "v": -4,
+      "r": "L",
+      "d": "2026-01-24",
+      "opp": "MSU",
+      "s": "48-91"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-02-01",
+      "opp": "PUR",
+      "s": "63-93"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-02-06",
+      "opp": "OSU",
+      "s": "62-82"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-02-08",
+      "opp": "MINN",
+      "s": "67-62"
+     },
+     {
+      "v": -4,
+      "r": "W",
+      "d": "2026-02-11",
+      "opp": "IOWA",
+      "s": "77-70"
+     },
+     {
+      "v": -5,
+      "r": "L",
+      "d": "2026-02-15",
+      "opp": "RUTG",
+      "s": "57-68"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-02-19",
+      "opp": "NU",
+      "s": "74-78"
+     },
+     {
+      "v": -5,
+      "r": "W",
+      "d": "2026-02-21",
+      "opp": "WASH",
+      "s": "64-60"
+     },
+     {
+      "v": -6,
+      "r": "L",
+      "d": "2026-02-26",
+      "opp": "NEB",
+      "s": "61-74"
+     },
+     {
+      "v": -7,
+      "r": "L",
+      "d": "2026-03-01",
+      "opp": "RUTG",
+      "s": "65-69"
+     },
+     {
+      "v": -8,
+      "r": "L",
+      "d": "2026-03-05",
+      "opp": "WIS",
+      "s": "45-78"
+     },
+     {
+      "v": -9,
+      "r": "L",
+      "d": "2026-03-08",
+      "opp": "ILL",
+      "s": "72-78"
+     },
+     {
+      "v": -8,
+      "r": "W",
+      "d": "2026-03-10",
+      "opp": "ORE",
+      "s": "70-60"
+     },
+     {
+      "v": -9,
+      "r": "L",
+      "d": "2026-03-11",
+      "opp": "IOWA",
+      "s": "64-75"
+     }
+    ],
+    "w": 12,
+    "l": 21,
+    "t": 0
+   },
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/120.png&h=80&w=80",
+   "facts": [
+    [
+     "Last season (ESPN results)",
+     "12-21"
+    ],
+    [
+     "2026-27 games listed",
+     30
+    ],
+    [
+     "Big Ten games",
+     20
+    ],
+    [
+     "Days to tip-off",
+     23
+    ]
+   ],
+   "headline": {
+    "title": "What Maryland Men\u2019s Basketball Said At Big Ten Media Days",
+    "desc": "Hear from head coach Buzz Williams and student-athletes Robert Jennings II and DJ Wagner as they preview the upcoming season.",
+    "url": "https://umterps.com/news/2026/10/8/mens-basketball-maryland-mens-basketballs-words-at-big-ten-media-days",
+    "published": "2026-10-08T20:15:00Z",
+    "publishedEt": "Thu Oct 8 \u00b7 4:15 PM ET",
+    "image": "https://umterps.com/common/controls/image_handler.aspx?thumb_prefix=rp_system&image_path=/images/2026/10/8/MBBb1g.png",
+    "source": "umterps.com (official Maryland Athletics) men's basketball RSS",
+    "type": "Story",
+    "imageLocal": "/img/4af2dd3b96a2e7ee.img"
+   },
+   "more": [
+    {
+     "title": "Reranking the men's basketball recruiting class of 2024",
+     "url": "https://www.espn.com/mens-college-basketball/story/_/id/50015657/mens-college-basketball-recruiting-reranking-scnext-100-class-2024-cooper-flagg-dylan-harper",
+     "publishedEt": "Thu Sep 24 \u00b7 7:35 AM ET",
+     "source": "ESPN"
+    },
+    {
+     "title": "Men\u2019s Hoops Heads To Big Ten Media Day On Thursday",
+     "url": "https://umterps.com/news/2026/10/7/mens-basketball-mens-hoops-heads-to-big-ten-media-day-on-thursday",
+     "publishedEt": "Wed Oct 7 \u00b7 3:00 PM ET",
+     "source": "umterps.com"
+    },
+    {
+     "title": "Maryland Athletics Joins Maryland Legacy Challenge",
+     "url": "https://umterps.com/news/2026/10/7/terrapin-club-maryland-athletics-joins-maryland-legacy-challenge",
+     "publishedEt": "Wed Oct 7 \u00b7 10:39 AM ET",
+     "source": "umterps.com"
+    },
+    {
+     "title": "Tip Times, TV Assignments Announced For Men\u2019s Basketball",
+     "url": "https://umterps.com/news/2026/10/6/mens-basketball-tip-times-tv-assignments-announced-for-mens-basketball",
+     "publishedEt": "Tue Oct 6 \u00b7 3:00 PM ET",
+     "source": "umterps.com"
+    }
+   ],
+   "sources": [
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:54Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/120/schedule?season=2027&seasontype=2",
+     "error": null,
+     "from": null,
+     "name": "Terps 2026-27 schedule"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T12:21:26Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/120/schedule?season=2026",
+     "error": null,
+     "from": null,
+     "name": "Terps 2025-26 results"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T14:49:36Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/120",
+     "error": null,
+     "from": null,
+     "name": "Terps team"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:54Z",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?team=120&limit=40",
+     "error": null,
+     "from": null,
+     "name": "Terps news"
+    },
+    {
+     "state": "live",
+     "fetchedAt": "2026-10-10T15:31:55Z",
+     "url": "https://umterps.com/rss?path=mbball",
+     "error": null,
+     "from": null,
+     "name": "umterps.com (official Maryland Athletics) men's basketball RSS"
+    }
+   ],
+   "logoLocal": "/img/f238d86b41f3eef3.img"
+  }
+ ],
+ "sundayMode": {
+  "title": "Sunday Mode",
+  "subtitle": "Bill Simmons\u2013style weekend watch cards \u00b7 facts from the feeds only",
+  "weekend": {
+   "sat": "2026-10-10",
+   "sun": "2026-10-11",
+   "label": "Sat Oct 10 \u2013 Sun Oct 11, 2026"
+  },
+  "disclaimer": "Watch cards only. Opponent, kickoff (ET), TV, and records are copied from ESPN/RSS payloads. Any \u201clean\u201d chrome is playful UI \u2014 not a pick, line, or injury report.",
+  "cards": [
+   {
+    "key": "ravens",
+    "team": "Ravens",
+    "full": "Baltimore Ravens",
+    "colors": [
+     "#241773",
+     "#9E7C0C"
+    ],
+    "logoLocal": "/img/daa5d4ee7c9be3b3.img",
+    "inWindow": true,
+    "tagline": "Sunday Night Football \u00b7 watch card",
+    "record": "3-1",
+    "standing": "T-1st in AFC North (CLE ahead on ESPN's tiebreak order)",
+    "event": {
+     "opp": "Falcons",
+     "oppAbbr": "ATL",
+     "oppLogoLocal": "/img/9e0d64e9a296f625.img",
+     "home": false,
+     "neutral": false,
+     "et": "Sun Oct 11 \u00b7 8:20 PM ET",
+     "tv": [
+      "NBC"
+     ],
+     "venue": "Mercedes-Benz Stadium",
+     "week": "Week 5",
+     "competition": "Regular Season",
+     "where": "at"
+    },
+    "facts": [
+     {
+      "label": "Points for",
+      "value": "116"
+     },
+     {
+      "label": "Points against",
+      "value": "96"
+     },
+     {
+      "label": "Streak",
+      "value": "W2"
+     },
+     {
+      "label": "AFC seed (ESPN)",
+      "value": "5"
+     }
+    ],
+    "lean": {
+     "label": "Desk chrome (not a pick)",
+     "text": "Watch card \u00b7 Ravens at Falcons",
+     "disclaimer": "No lines, spreads, or injury claims invented here \u2014 only kickoff, TV, and records from the source feeds."
+    },
+    "note": null
+   },
+   {
+    "key": "chelsea",
+    "team": "Chelsea",
+    "full": "Chelsea FC",
+    "colors": [
+     "#034694",
+     "#DBA111"
+    ],
+    "logoLocal": "/img/9533c4cd90427e31.img",
+    "inWindow": true,
+    "tagline": "Premier League \u00b7 watch card",
+    "record": "2W 1D 2L",
+    "standing": "10th in the Premier League \u00b7 7 pts",
+    "event": {
+     "opp": "Bournemouth",
+     "oppAbbr": "BOU",
+     "oppLogoLocal": "/img/18f0ffdb0c8fc2b6.img",
+     "home": true,
+     "neutral": false,
+     "et": "Sat Oct 10 \u00b7 10:00 AM ET",
+     "tv": [
+      "Peacock"
+     ],
+     "venue": "Stamford Bridge",
+     "week": null,
+     "competition": "English Premier League",
+     "where": "vs"
+    },
+    "facts": [
+     {
+      "label": "Goals for",
+      "value": "10"
+     },
+     {
+      "label": "Goals against",
+      "value": "12"
+     },
+     {
+      "label": "Goal difference",
+      "value": "-2"
+     },
+     {
+      "label": "Played",
+      "value": "5"
+     }
+    ],
+    "lean": {
+     "label": "Desk chrome (not a pick)",
+     "text": "Watch card \u00b7 Chelsea vs Bournemouth",
+     "disclaimer": "No lines, spreads, or injury claims invented here \u2014 only kickoff, TV, and records from the source feeds."
+    },
+    "note": null
+   },
+   {
+    "key": "orioles",
+    "team": "Orioles",
+    "full": "Baltimore Orioles",
+    "colors": [
+     "#DF4601",
+     "#000000"
+    ],
+    "logoLocal": "/img/306e238118a9b1aa.img",
+    "inWindow": false,
+    "tagline": "MLB \u00b7 offseason desk",
+    "record": "79-82",
+    "standing": "4th in AL East \u00b7 18.5 GB",
+    "note": "2026 regular season complete \u2014 no weekend fixture in the schedule feed.",
+    "facts": [
+     {
+      "label": "Run differential",
+      "value": "-21"
+     },
+     {
+      "label": "Runs scored",
+      "value": "718"
+     },
+     {
+      "label": "Runs allowed",
+      "value": "739"
+     },
+     {
+      "label": "Last 10",
+      "value": "6-4"
+     }
+    ],
+    "lean": null
+   },
+   {
+    "key": "terps",
+    "team": "Terps",
+    "full": "Maryland Terrapins men's basketball",
+    "colors": [
+     "#E21833",
+     "#FFD200"
+    ],
+    "logoLocal": "/img/f238d86b41f3eef3.img",
+    "inWindow": false,
+    "tagline": "College hoops \u00b7 tip-off watch",
+    "record": "0-0",
+    "standing": "Opener Mon Nov 2 vs Bucknell",
+    "note": "No weekend tip \u2014 opener listed below when the schedule feed has it.",
+    "event": {
+     "opp": "Bucknell",
+     "oppAbbr": "BUCK",
+     "oppLogoLocal": "/img/fbafbe30cd392a45.img",
+     "home": true,
+     "neutral": false,
+     "et": "Mon Nov 2 \u00b7 7:00 PM ET",
+     "tv": [
+      "B1G+"
+     ],
+     "venue": "XFINITY Center",
+     "week": "Week 1",
+     "competition": "Regular Season"
+    },
+    "facts": [
+     {
+      "label": "Last season (ESPN results)",
+      "value": "12-21"
+     },
+     {
+      "label": "2026-27 games listed",
+      "value": 30
+     },
+     {
+      "label": "Big Ten games",
+      "value": 20
+     },
+     {
+      "label": "Days to tip-off",
+      "value": 23
+     }
+    ],
+    "lean": null
+   }
+  ]
+ }
+}
