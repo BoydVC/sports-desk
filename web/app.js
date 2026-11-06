@@ -217,7 +217,7 @@
       </article>`;
     }).join("");
     el.innerHTML = `<div class="sm-head">
-        <div><div class="sm-kicker">TokenMax · Boyd Edition</div>
+        <div><div class="sm-kicker">TokenMax · Alex Edition</div>
           <div class="sm-title">${esc(sm.title)}</div>
           <div class="sm-sub">${esc(sm.subtitle)}</div></div>
         <div class="sm-weekend">This weekend<b data-check="sunday.weekend">${esc(sm.weekend.label)}</b></div>
@@ -229,7 +229,7 @@
   function render(D) {
     const T = D.teams;
     sundayMode(D);
-    $("#dateline").innerHTML = `<span>Millersville, Md.</span><span>${esc(new Date(D.generatedAt).toLocaleDateString("en-US", { timeZone: "America/New_York", weekday: "long", year: "numeric", month: "long", day: "numeric" }))}</span><span>Late Edition · data fetched ${esc(D.generatedAtEt || fmtEt(D.generatedAt))}</span>`;
+    $("#dateline").innerHTML = `<span>Lakeside, Md.</span><span>${esc(new Date(D.generatedAt).toLocaleDateString("en-US", { timeZone: "America/New_York", weekday: "long", year: "numeric", month: "long", day: "numeric" }))}</span><span>Late Edition · data fetched ${esc(D.generatedAtEt || fmtEt(D.generatedAt))}</span>`;
     const allNext = [];
     T.forEach((t) => (t.next || []).forEach((e) => allNext.push({ t, e })));
     allNext.sort((a, b) => (a.e.date < b.e.date ? -1 : 1));
@@ -244,7 +244,7 @@
     }).join("");
     $("#desk").innerHTML = `<div class="front">${T.map(teamCard).join("")}</div>${agate(D)}`;
     const srcs = T.map((t) => `<div class="s"><h4>${esc(t.full)}</h4>${(t.sources || []).map((s) => `<div><span class="st ${esc(s.state)}">${esc(s.state)}</span> ${esc(s.name)} · fetched ${esc(s.fetchedAt ? fmtEt(s.fetchedAt) : "never")}${s.from ? ` (${esc(s.from)})` : ""}${s.error ? ` · <i>${esc(s.error)}</i>` : ""}<br><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a></div>`).join("")}</div>`).join("");
-    $("#colophon").innerHTML = `<div class="s"><h4>About this page</h4>Built by TokenMax for Christopher Boyd. Sunday Mode watch cards use only opponent, kickoff (ET), TV, and records from the same feeds — no invented lines or injury claims. Records, standings, scores, fixtures and TV come from ESPN's public JSON endpoints; Terps and Orioles lead stories come from the teams' official RSS feeds (umterps.com, MLB.com). Derived numbers (games over .500, Orioles monthly splits, Terps schedule counts) are arithmetic on those payloads. Anything a source didn't return is left blank. Page built ${esc(D.generatedAtEt || "")}.</div>${srcs}`;
+    $("#colophon").innerHTML = `<div class="s"><h4>About this page</h4>Built by TokenMax for Alex Rivera. Sunday Mode watch cards use only opponent, kickoff (ET), TV, and records from the same feeds — no invented lines or injury claims. Records, standings, scores, fixtures and TV come from ESPN's public JSON endpoints; Terps and Orioles lead stories come from the teams' official RSS feeds (umterps.com, MLB.com). Derived numbers (games over .500, Orioles monthly splits, Terps schedule counts) are arithmetic on those payloads. Anything a source didn't return is left blank. Page built ${esc(D.generatedAtEt || "")}.</div>${srcs}`;
     document.body.dataset.ready = "1";
   }
 

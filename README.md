@@ -1,6 +1,6 @@
 # The Sports Desk
 
-A newspaper-style sports front for Boyd's teams (Ravens, Chelsea, Orioles, Terps men's basketball),
+A newspaper-style sports front for Alex's teams (Ravens, Chelsea, Orioles, Terps men's basketball),
 with ESPN-style data viz and a **Sunday Mode** weekend watch-card panel. Remastered by TokenMax
 on Oct 10, 2026 (Saturday daily-usage-check).
 
@@ -30,7 +30,7 @@ on Oct 10, 2026 (Saturday daily-usage-check).
 | Standings and tables | `site.api.espn.com/apis/v2/sports/{sport}/{league}/standings` |
 | Headlines | ESPN team news feeds, plus the official RSS feeds from umterps.com (Terps) and MLB.com (Orioles) |
 
-The approach is copied from `../boyd-wall/collect.py`: per-source disk cache, TTLs, and fallback to the last good copy when a fetch fails. Boyd Wall's cache is used only as a **read-only** seed for identical URLs; nothing in `../boyd-wall` is written.
+The approach is copied from `../boyd-wall/collect.py`: per-source disk cache, TTLs, and fallback to the last good copy when a fetch fails. Alex Wall's cache is used only as a **read-only** seed for identical URLs; nothing in `../boyd-wall` is written.
 
 **No invented data.** Every number is copied from a payload or computed from one by simple arithmetic (games over .500, monthly splits, schedule counts, run totals). If a value is missing, the page shows a gap ("—", "TV n/a", "not found in source").
 
@@ -56,6 +56,6 @@ python3 collect.py --force   # ignore TTLs and refetch everything
 
 ---
 ## Repo notes
-- **Built:** Oct 10, 2026, by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 10, 2026, by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/sports-desk` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.

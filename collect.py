@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Sports Desk collector.
 
-Same approach as Boyd Wall's collector (../boyd-wall/collect.py): public, no-key ESPN JSON
+Same approach as Alex Wall's collector (../boyd-wall/collect.py): public, no-key ESPN JSON
 endpoints, each cached on disk with a fetchedAt stamp and a status of live / stale / unavailable.
-Boyd Wall's own cache is used read-only as a fallback seed; nothing is ever written there.
+Alex Wall's own cache is used read-only as a fallback seed; nothing is ever written there.
 Every number on the page is copied or arithmetically derived from a fetched payload; nothing is
 invented. If something can't be found, the field stays null and the page shows a gap.
 
@@ -26,7 +26,7 @@ IMG = os.path.join(HERE, "data", "img")
 WALL_CACHE = os.path.join(HERE, "..", "boyd-wall", "data", "cache")  # read-only fallback
 CFG = json.load(open(os.path.join(HERE, "config.json")))
 ET = ZoneInfo(CFG.get("timezone", "America/New_York"))
-UA = "SportsDesk/1.0 (personal sports page; Boyd's TokenMax build)"
+UA = "SportsDesk/1.0 (personal sports page; Alex's TokenMax build)"
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 os.makedirs(CACHE, exist_ok=True)
 os.makedirs(IMG, exist_ok=True)
@@ -85,7 +85,7 @@ def cache_write(name, payload):
 
 
 def wall_cache(url):
-    """Boyd Wall's cached copy of the exact same URL, if it has one (read-only)."""
+    """Alex Wall's cached copy of the exact same URL, if it has one (read-only)."""
     try:
         for fn in os.listdir(WALL_CACHE):
             if fn.startswith("espn_") and fn.endswith(".json"):
@@ -111,7 +111,7 @@ def http_json(url, timeout=45):
 
 def cached_fetch(name, url, ttl, force=False):
     """(data, status). Fresh cache -> use it. Stale -> refetch; on failure fall back to the last
-    good copy (ours, then Boyd Wall's) and say so."""
+    good copy (ours, then Alex Wall's) and say so."""
     c = cache_read(name)
     if c and c.get("url") != url:
         c = None

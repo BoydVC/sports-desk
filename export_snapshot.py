@@ -51,7 +51,7 @@ def main():
     html = html.replace('<link rel="stylesheet" href="style.css">', f"<style>{css}</style>")
     data = json.dumps(desk, separators=(",", ":")).replace("</", "<\\/")
     html = html.replace('<script src="app.js"></script>', f"<script>window.DESK={data};</script>\n<script>{js}</script>")
-    html = html.replace("<title>The Sports Desk · Boyd Edition</title>", f"<title>The Sports Desk · {desk.get('generatedAtEt', '')}</title>")
+    html = html.replace("<title>The Sports Desk · Alex Edition</title>", f"<title>The Sports Desk · {desk.get('generatedAtEt', '')}</title>")
     os.makedirs(os.path.join(HERE, "dist"), exist_ok=True)
     out = os.path.join(HERE, "dist", "sports-desk-snapshot.html")
     open(out, "w").write(html)
